@@ -180,7 +180,8 @@ Please use [*ProperTree*](https://github.com/corpnewt/ProperTree/archive/refs/he
 
 SMBIOS|Description
 :----|:----
-iMac19,1|For Mojave and newer.
+MacPro7,1|For Tahoe.
+iMac19,1|For Mojave up to Tahoe.
 iMac18,3|For High Sierra and older.
 
 # Compatible SMBIOS, for Notebook
